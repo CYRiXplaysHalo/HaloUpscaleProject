@@ -1,6 +1,8 @@
 # HaloUpscaleProject
 
-This project is dedicated towards using AI to upscale old Halo videos so that they can be a just a little bit easier to watch. 
+![Before vs After](https://raw.githubusercontent.com/CYRiXplaysHalo/HaloUpscaleProject/main/main.png)
+
+This project is dedicated towards using AI to upscale old Halo videos so that they can be a just a little bit easier to watch. You can see the end results on this YouTube channel: https://www.youtube.com/@HaloUpscaleProject
 
 ## Updates
 
@@ -12,6 +14,6 @@ What I have done is create custom trained [Real-ESRGAN](https://github.com/xinnt
  
 ## Halo 1
 
-The first version of this model takes 320x240 images and upscales them to 1280x960 images. It was trained on 87,000 images across all maps. 
+The first version of this model takes 320x240 images and upscales them to 1280x960 images. It was trained on 87,000 images across all maps. Eventually I will upload the image datasets as well.
 
 [HUPcy_h1v1.7z](https://drive.google.com/file/d/1u90t0iXwnQX-yv7WudV1TxcLgG0zqfAj/view?usp=sharing)
