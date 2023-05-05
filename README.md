@@ -42,7 +42,7 @@ Now what I end up doing is using VirtualDub to generate a video file from the up
 
 The first version of this model takes 320x240 images and upscales them to 1280x960 images. It was trained on 87,000 images across all maps. Eventually I will upload the image datasets as well.
 
-[HUPcy_h1v1.7z](https://drive.google.com/file/d/1u90t0iXwnQX-yv7WudV1TxcLgG0zqfAj/view?usp=sharing)
+[HUPcy_h1v1.7z](https://drive.google.com/file/d/1u90t0iXwnQX-yv7WudV1TxcLgG0zqfAj/view?usp=sharing) | [Dataset](https://archive.org/details/hupcy_h1v1-dataset)
 
 ## Updates
 
